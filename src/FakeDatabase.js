@@ -1,0 +1,5 @@
+class FakeDatabase{
+    this.authors = [
+        {}
+    ]
+}
